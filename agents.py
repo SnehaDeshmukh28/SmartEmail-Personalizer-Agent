@@ -28,8 +28,7 @@ class EmailPersonalizationAgents():
                 it more personal and engaging for each recipient.
                 """,
             backstory="""
-                As an Email Personalizer, you are responsible for customizing template emails for individual 
-                recipients based on their information and previous interactions.
+                
                 """,
             verbose=True,
             llm=self.llm,
