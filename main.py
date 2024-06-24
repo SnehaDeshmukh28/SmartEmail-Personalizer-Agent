@@ -13,18 +13,15 @@ load_dotenv()
 email_template = """
 Hey [Name]!
 
-Just a quick reminder that we have a Skool community where you can 
-join us for weekly coaching calls every Tuesday at 6 PM Eastern time.
-The community is completely free and we're about to hit the 500
-user milestone. We'd love to have you join us!
+I regularly post updates on my projects on LinkedIn and GitHub, so be sure to follow me there for the 
+latest news and insights into my work.
 
-If you have any questions or need help with your projects, 
-this is a great place to connect with others and get support. 
+If you have any questions or need assistance with your projects, feel free to pin me on LinkedIn to 
+schedule a quick call. I am always happy to connect, collaborate, and provide support.
 
-If you're enjoying the AI-related content, make sure to check out 
-some of the other videos on my channel. Don't forget to hit that 
-like and subscribe button to stay updated with the latest content. 
-Looking forward to seeing you in the community!
+I work on various AI projects, so stay tuned for updates and new developments.
+
+Looking forward to connecting with you!
 
 Best regards,
 Sneha Deshmukh
