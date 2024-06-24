@@ -1,7 +1,7 @@
 import os
 from crewai import Agent
 from langchain_groq import ChatGroq
-from langchain_openai import ChatOpenAI
+#from langchain_openai import ChatOpenAI
 
 
 class EmailPersonalizationAgents():
