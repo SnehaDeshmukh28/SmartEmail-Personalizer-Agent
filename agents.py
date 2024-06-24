@@ -28,7 +28,8 @@ class EmailPersonalizationAgents():
                 it more personal and engaging for each recipient.
                 """,
             backstory="""
-                As an Email Personalizer, you are responsible for customizing template emails for individual recipients based on their information and previous interactions.
+                As an Email Personalizer, you are responsible for customizing template emails for individual 
+                recipients based on their information and previous interactions.
                 """,
             verbose=True,
             llm=self.llm,
@@ -41,10 +42,12 @@ class EmailPersonalizationAgents():
             goal=f"""
                 Revise draft emails to adopt the Ghostwriter's writing style.
 
-                Use an informal, engaging, and slightly sales-oriented tone, mirroring the Ghostwriter's final email communication style.
+                Use an informal, engaging, and slightly sales-oriented tone, mirroring the Ghostwriter's final email 
+                communication style.
                 """,
             backstory="""
-                As a Ghostwriter, you are responsible for revising draft emails to match the Ghostwriter's writing style, focusing on clear, direct communication with a friendly and approachable tone.
+                As a Ghostwriter, you are responsible for revising draft emails to match the Ghostwriter's writing 
+                style, focusing on clear, direct communication with a friendly and approachable tone.
                 """,
             verbose=True,
             llm=self.llm,
