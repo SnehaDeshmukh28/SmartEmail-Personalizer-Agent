@@ -25,7 +25,7 @@ class PersonalizeEmailTask():
             """,
             agent=agent,
             expected_output=f"Personalized email draft.",
-            async_execution=True,
+            #async_execution=True,
         )
 
     def ghostwrite_email(self, agent, draft_email, recipient):

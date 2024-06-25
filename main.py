@@ -40,7 +40,7 @@ personalize_email_tasks = []
 ghostwrite_email_tasks = []
 
 # Path to the CSV file containing client information
-csv_file_path = 'data/clients_small.csv'
+csv_file_path = 'data/clients_medium.csv'
 
 # Open the CSV file
 with open(csv_file_path, mode='r', newline='') as file:
