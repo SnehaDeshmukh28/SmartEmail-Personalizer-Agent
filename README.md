@@ -1,5 +1,3 @@
-## README
-
 # SmartEmail Personalizer with CrewAI and Groq API
 
 ## Project Overview
