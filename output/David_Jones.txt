@@ -1,13 +1,3 @@
-# Results
-
-## Groq 
-
-- Average Speed: 65 Seconds
-- Average Cost: $0.00
-- Crew usage {'total_tokens': 10490, 'prompt_tokens': 8681, 'completion_tokens': 1809, 'successful_requests': 10}
-
-### Example Result:
-
 Hey David Jones!
 
 Hope you're doing great! I'm constantly sharing updates on my latest projects and learnings on LinkedIn and GitHub. Feel free to follow me there for all the action!
@@ -22,4 +12,3 @@ Looking forward to catching up with you!
 
 All the best,
 Sneha Deshmukh
-
