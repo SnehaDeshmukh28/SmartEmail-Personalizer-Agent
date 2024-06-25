@@ -8,7 +8,8 @@ class EmailPersonalizationAgents():
     def __init__(self):
         self.llm = ChatGroq(
             api_key=os.getenv("GROQ_API_KEY"),
-            model="mixtral-8x7b-32768"
+            #model="mixtral-8x7b-32768"
+            model="llama3-8b-8192"
         )
 
         # self.llm = ChatOpenAI(
