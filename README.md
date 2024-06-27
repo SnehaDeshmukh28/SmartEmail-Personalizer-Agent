@@ -4,7 +4,7 @@
 
 **SmartEmail Personalizer** is a cutting-edge project designed to automate the personalization and ghostwriting of emails for a client list using advanced AI technologies. Leveraging CrewAI and Groq API's Mixtral Model LLM, this project ensures that each email is uniquely tailored to the recipient, enhancing engagement and communication effectiveness.
 
-### Key Features
+## Key Features
 
 - **Automated Personalization**: Utilizes AI to personalize emails based on client data, ensuring a tailored approach for each recipient.
 - **AI-powered Ghostwriting**: Generates high-quality email drafts, saving time and effort while maintaining a professional tone.
