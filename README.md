@@ -60,7 +60,7 @@ Sneha Deshmukh
 
 For any questions or further information, please contact:
 
-Sneha Deshmukh
+Sneha Deshmukh🔮
 - LinkedIn: [Sneha's LinkedIn](https://www.linkedin.com/in/snehaadeshmukh/)
 - GitHub: [Sneha's GitHub](https://github.com/SnehaDeshmukh28)
 
